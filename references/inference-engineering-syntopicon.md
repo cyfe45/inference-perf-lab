@@ -95,7 +95,7 @@ Three spine texts carry the field; five foundational books carry the disciplines
 | Work | Loci to read | Role | Caveat |
 | --- | --- | --- | --- |
 | [Kiely, *Inference Engineering* (Baseten Books, 2026)](https://www.baseten.co/inference-engineering/) | Ch. 0 (three layers: runtime, infrastructure, tooling); Ch. 6 Modalities; Ch. 7 Production; App. A glossary; App. B further reading | The field's map and first textbook; free online | Vendor-authored; frames problems platforms solve |
-| Austin et al., *How to Scale Your Model* (Google DeepMind, 2025) | Chapters "Rooflines", "All About Transformer Inference", "Serving LLaMA 3-70B" | First-principles performance derivation; free online | TPU-centric; translate to GPU |
+| [Austin et al., *How to Scale Your Model* (Google DeepMind, 2025)](https://jax-ml.github.io/scaling-book/) | Chapters "Rooflines", "All About Transformer Inference", "Serving LLaMA 3-70B" | First-principles performance derivation; free online | TPU-centric; translate to GPU |
 | Huyen, *AI Engineering* (O'Reilly, 2025) | Ch. 9 "Inference Optimization" | Application-layer survey | Too shallow to be the spine |
 
 ### Foundational books
