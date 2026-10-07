@@ -112,8 +112,8 @@ Three spine texts carry the field; five foundational books carry the disciplines
 
 - Dean & Barroso, "The Tail at Scale", *CACM* 2013 — tail latency.
 - Horace He, "Making Deep Learning Go Brrrr From First Principles" (2022 blog) — compute / memory / overhead triad.
-- Stas Bekman, *Machine Learning Engineering Open Book* — inference chapter.
-- [Kiely, Appendix B — diff it against this canon; gaps in either direction are informative.](https://github.com/stas00/ml-engineering)
+- [Stas Bekman, *Machine Learning Engineering Open Book* — inference chapter.](https://github.com/stas00/ml-engineering)
+- Kiely, Appendix B — diff it against this canon; gaps in either direction are informative.
 
 ## The 14 Great Ideas
 
